@@ -33,7 +33,6 @@ int strStr(std::string haystack, std::string needle)
 	return index;
 }
 
-
 int main()
 {
 	std::string haystk = "hello";
